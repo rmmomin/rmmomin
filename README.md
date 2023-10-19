@@ -12,5 +12,4 @@ I am a Finance PhD student at the University of Chicago Booth School of Business
 ### Contact
 * [Email](mailto:rmomin0@chicagobooth.edu)
 * [LinkedIn](https://www.linkedin.com/in/rayhanmomin/)
-* [Twitter](https://twitter.com/momin_rayhan)
 * [Website](https://rmmomin.github.io/)
